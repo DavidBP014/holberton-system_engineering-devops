@@ -1,0 +1,2 @@
+shell permisos
+XC
