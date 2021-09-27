@@ -1,0 +1,1 @@
+yo juan shell redirecciones
