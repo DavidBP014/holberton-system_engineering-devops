@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+x hellou
+chmod a+x hello
